@@ -1,0 +1,10 @@
+#include "Game.h" 
+
+
+
+int main() {
+    Game game;
+    game.loop1_Game();
+    return 0;
+}
+
